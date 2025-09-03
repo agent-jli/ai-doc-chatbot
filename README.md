@@ -2,6 +2,8 @@
 
 A clean, simple RAG (Retrieval-Augmented Generation) system that lets you chat with your documents using AI. Built with LangChain and powered by OpenAI, with intelligent fallback to Wikipedia for general knowledge questions.
 
+![Snapshot](readme.img/snapshot.png)
+
 ## ✨ Features
 
 - **Smart Document Search**: Vector-based semantic search through your document corpus
